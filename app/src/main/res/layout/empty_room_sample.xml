@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_marginTop="-6dp"
+    app:cardElevation="7dp"
+    app:cardUseCompatPadding="true"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_delete_black_24dp"
+            android:layout_alignParentRight="true"
+            android:padding="5dp"
+            android:id="@+id/dlt"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="date"
+                android:id="@+id/wk"
+                android:padding="2dp"
+                android:textSize="18sp"
+                android:drawableLeft="@drawable/ic_date_range_black_24dp"
+                android:drawablePadding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="time"
+                android:id="@+id/tm"
+                android:textSize="18sp"
+                android:drawableLeft="@drawable/ic_access_time_black_24dp"
+                android:drawablePadding="5dp"
+                android:padding="2dp"
+
+                />
+            <TextView
+                android:textSize="18sp"
+                android:padding="2dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="room"
+                android:id="@+id/rm"
+                android:drawableLeft="@drawable/ic_home_black_24dp"
+                android:drawablePadding="5dp"
+                />
+
+
+
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+</androidx.cardview.widget.CardView>

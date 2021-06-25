@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.al.drmadmin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.TeacherExamRoutine"></activity>
+        <activity android:name=".Activity.ExamRoutine" />
+        <activity android:name=".Activity.Notification" />
+        <activity android:name=".Activity.AllRoom" />
+        <activity android:name=".Activity.AllClass" />
+        <activity android:name=".Activity.AddEmptyRoom" />
+        <activity android:name=".Activity.AddClass" />
+        <activity android:name=".Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

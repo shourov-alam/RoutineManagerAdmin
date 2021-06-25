@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">DRM Admin</string>
+
+    <string-array name="level">
+        <item>LEVEL-1</item>
+        <item>LEVEL-2</item>
+        <item>LEVEL-3</item>
+        <item>LEVEL-4</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>TERM-1</item>
+        <item>TERM-2</item>
+        <item>TERM-3</item>
+    </string-array>
+
+    <string-array name="shift">
+        <item>Day</item>
+        <item>Evening</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>B</item>
+        <item>R1</item>
+        <item>R2</item>
+        <item>R3</item>
+        <item>R4</item>
+        <item>O0</item>
+        <item>O1</item>
+        <item>O2</item>
+        <item>O3</item>
+        <item>O4</item>
+        <item>O5</item>
+        <item>O6</item>
+        <item>07</item>
+        <item>O8</item>
+        <item>O9</item>
+        <item>O10</item>
+        <item>O11</item>
+        <item>O12</item>
+        <item>O13</item>
+        <item>O14</item>
+        <item>O15</item>
+        <item>O16</item>
+        <item>O17</item>
+        <item>O18</item>
+        <item>O19</item>
+    </string-array>
+
+    <string-array name="subjects">
+        <item>Computer Fundamentals</item>
+        <item>Mathematics-I: Differential and Integral Calculus</item>
+        <item>Basic Functional English and English Spoken</item>
+        <item>Physics-I: Mechanics, Heat and Thermodynamics,Waves and Oscillation, Optics</item>
+        <item>Mathematics -II: Complex Variable, linear Algebra and Coordinate Geometry</item>
+        <item>Programming and Problem Solving</item>
+        <item>Problem Solving Lab	</item>
+        <item>Physics-II: Electricity, Magnetism and Modern Physics</item>
+        <item>Physics-II Lab</item>
+        <item>Writing and Comprehension</item>
+        <item>Discrete Mathematics</item>
+        <item>Electrical Circuits</item>
+        <item>Electrical Circuits Lab</item>
+        <item>Data Structure</item>
+        <item>Data Structure Lab</item>
+        <item>Ordinary and Partial Differential Equations</item>
+        <item>Engineering Mathematics</item>
+        <item>Digital Electronics</item>
+        <item>Digital Electronics Lab</item>
+        <item>Object Oriented Programming</item>
+        <item>Object Oriented Programming Lab</item>
+        <item>Bangladesh Studies</item>
+        <item>Algorithms</item>
+        <item>Algorithms Lab</item>
+        <item>Statistics and Probability</item>
+        <item>Electronic Devices and Circuits</item>
+        <item>Electronic Devices and Circuits Lab</item>
+        <item>Microprocessor and Assembly Language</item>
+        <item>Microprocessor and Assembly Language Lab</item>
+        <item>Data Communication</item>
+        <item>Numerical Methods</item>
+        <item>Introduction to Bio-Informatics</item>
+        <item>Database Management System</item>
+        <item>Database Management System Lab</item>
+        <item>Computer Networks	</item>
+        <item>Computer Networks Lab	</item>
+        <item>Economics</item>
+        <item>System Analysis and Design</item>
+        <item>Computer Architecture and Organization</item>
+        <item>Operating Systems</item>
+        <item>Operating Systems Lab</item>
+        <item>Art of Living</item>
+        <item>Compiler Design</item>
+        <item>Compiler Design Lab</item>
+        <item>Software Engineering</item>
+        <item>Wireless Programming</item>
+        <item>Financial and Managerial Accounting 2</item>
+        <item>Artificial Intelligence</item>
+        <item>Artificial Intelligence Lab</item>
+        <item>Simulation and Modelling</item>
+        <item>Simulation and Modelling Lab</item>
+        <item>Web Engineering</item>
+        <item>Web Engineering Lab</item>
+        <item>Computer Graphics</item>
+        <item>Computer Graphics Lab</item>
+        <item>Embedded Systems</item>
+        <item>Project / Internship (Phase I, to be completed in Level-4 Term-3</item>
+        <item>Social and Professional Issues in Computing</item>
+
+    </string-array>
+
+    <string-array name="week">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+    </string-array>
+
+    <string-array name="time">
+        <item>8:30AM-10:00AM</item>
+        <item>10:00AM-11:30AM</item>
+        <item>11:30AM-01:00PM</item>
+        <item>01:00PM-02:30PM</item>
+        <item>02:30PM-04:00PM</item>
+        <item>04:00PM-05:30PM</item>
+        <item>06:00PM-07:30PM</item>
+        <item>07:30PM-09:00PM</item>
+
+
+    </string-array>
+
+    <string-array name="date">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+
+    </string-array>
+
+    <string-array name="month"
+
+        >
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+
+
+    </string-array>
+
+    <string-array name="type">
+        <item>Mid</item>
+        <item>Final</item>
+
+    </string-array>
+
+
+</resources>
